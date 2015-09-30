@@ -25,11 +25,11 @@ body > .container {
 	margin-bottom: 5px;
 }
 
-textarea:hover, 
-input:hover, 
-textarea:active, 
-input:active, 
-textarea:focus, 
+textarea:hover,
+input:hover,
+textarea:active,
+input:active,
+textarea:focus,
 input:focus,
 button:focus,
 button:active,
@@ -531,7 +531,7 @@ li.element {
 	border: 0px;
 	width: 270px;
 	background: #fff;
-	
+
 }
 
 .menu .second ul li iframe html {
@@ -786,7 +786,7 @@ li.element {
 }
 
 .screen .frameCover:hover button.btn-danger, .screen .frameCover:hover button.btn-warning, .screen .frameCover:hover button.btn-inverse {
-	visibility:visible;	
+	visibility:visible;
 	opacity:1;
 	transition-delay:0s;
 }
@@ -803,7 +803,7 @@ li.element {
 
 /* modals */
 
- 
+
 .modal.small-modal > .modal-dialog, .modal.small-modal .modal-content {
 	width: 400px;
 }
@@ -814,7 +814,7 @@ li.element {
 
 
 /* some flat ui resets */
- 
+
 
 .form-control {
 	border-radius: 0px;
